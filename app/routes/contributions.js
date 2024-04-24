@@ -5,6 +5,8 @@ const {
 
 /* The ContributionsHandler must be constructed with a connected db */
 /* The ContributionsHandler must be constructed with a connected db */
+/* The ContributionsHandler must be constructed with a connected db */
+/* The ContributionsHandler must be constructed with a connected db */
 function ContributionsHandler(db) {
     "use strict";
 
